@@ -1,0 +1,15 @@
+
+[
+  {
+    "title": "Password Reset",
+    "content": "Users can reset their password from the login page by selecting Forgot Password. A reset link remains valid for 30 minutes."
+  },
+  {
+    "title": "Two-Factor Authentication",
+    "content": "Two-factor authentication can be enabled from Settings > Security > Two-Factor Authentication. The application supports authenticator applications. SMS authentication is not supported."
+  },
+  {
+    "title": "Subscription Cancellation",
+    "content": "Users can cancel a subscription from Settings > Billing > Manage Subscription. The subscription remains active until the end of the current billing period. Refunds are reviewed manually by the billing team and are not guaranteed."
+  }
+]
